@@ -1,0 +1,16 @@
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\bin\Debug\net8.0\SistemaInventariov6.Modelos.deps.json
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\bin\Debug\net8.0\SistemaInventariov6.Modelos.dll
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\bin\Debug\net8.0\SistemaInventariov6.Modelos.pdb
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\bin\Debug\net8.0\SistemaInventariov6.Utilidades.dll
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\bin\Debug\net8.0\SistemaInventariov6.Utilidades.pdb
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.csproj.AssemblyReference.cache
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.AssemblyInfoInputs.cache
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.AssemblyInfo.cs
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.sourcelink.json
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.csproj.CopyComplete
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.dll
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\refint\SistemaInventariov6.Modelos.dll
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\SistemaInventariov6.Modelos.pdb
+D:\PROGRAMACION\CursoCSharp\SistemaInventariov6\SistemaInventariov6.Modelos\obj\Debug\net8.0\ref\SistemaInventariov6.Modelos.dll

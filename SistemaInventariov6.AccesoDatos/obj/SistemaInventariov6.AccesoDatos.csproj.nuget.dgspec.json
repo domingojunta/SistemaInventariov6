@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.AccesoDatos\\SistemaInventariov6.AccesoDatos.csproj": {}
+  },
+  "projects": {
+    "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.AccesoDatos\\SistemaInventariov6.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.AccesoDatos\\SistemaInventariov6.AccesoDatos.csproj",
+        "projectName": "SistemaInventariov6.AccesoDatos",
+        "projectPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.AccesoDatos\\SistemaInventariov6.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\domingo\\.nuget\\packages\\",
+        "outputPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\domingo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Modelos\\SistemaInventariov6.Modelos.csproj": {
+                "projectPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Modelos\\SistemaInventariov6.Modelos.csproj"
+              },
+              "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\SistemaInventariov6.Utilidades.csproj": {
+                "projectPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\SistemaInventariov6.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Modelos\\SistemaInventariov6.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Modelos\\SistemaInventariov6.Modelos.csproj",
+        "projectName": "SistemaInventariov6.Modelos",
+        "projectPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Modelos\\SistemaInventariov6.Modelos.csproj",
+        "packagesPath": "C:\\Users\\domingo\\.nuget\\packages\\",
+        "outputPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\domingo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\SistemaInventariov6.Utilidades.csproj": {
+                "projectPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\SistemaInventariov6.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\SistemaInventariov6.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\SistemaInventariov6.Utilidades.csproj",
+        "projectName": "SistemaInventariov6.Utilidades",
+        "projectPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\SistemaInventariov6.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\domingo\\.nuget\\packages\\",
+        "outputPath": "D:\\PROGRAMACION\\CursoCSharp\\SistemaInventariov6\\SistemaInventariov6.Utilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\domingo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+@import '_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css';
+
+/* _content/SistemaInventariov6/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-lghqm5fsmn] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-lghqm5fsmn] {
+  color: #0077cc;
+}
+
+.btn-primary[b-lghqm5fsmn] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-lghqm5fsmn], .nav-pills .show > .nav-link[b-lghqm5fsmn] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-lghqm5fsmn] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-lghqm5fsmn] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-lghqm5fsmn] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-lghqm5fsmn] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-lghqm5fsmn] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/SistemaInventariov6/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-etzkvsh966] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-etzkvsh966] {
+  color: #0077cc;
+}
+
+.btn-primary[b-etzkvsh966] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-etzkvsh966], .nav-pills .show > .nav-link[b-etzkvsh966] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-etzkvsh966] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-etzkvsh966] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-etzkvsh966] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-etzkvsh966] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-etzkvsh966] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
